@@ -39,5 +39,6 @@ site:
           title: Imported content
           path: imported-content
           default: true
+          draft: true
           content:
             directory: ./imported-content
