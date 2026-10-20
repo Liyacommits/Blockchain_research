@@ -4,14 +4,14 @@ site:
   structure:
     - type: section
       key: section-1
-      title: History of Blockchain
-      path: history-and-evolution-of-blockchain
+      title: Introduction to Blockchain Technology
+      path: introduction-to-blockchain-technology
       description: ""
       default: true
       children:
         - type: space
           key: space-1
-          title: History of Blockchain
+          title: Introduction to Blockchain Technology
           path: imported-content
           default: true
           content:
@@ -27,18 +27,6 @@ site:
           title: Decentralisation and Consensus Mechanisms
           path: imported-content
           default: true
-          content:
-            directory: ./decentralisation_and_consensus_mechanisms/imported-content
-    - type: section
-      key: section-3
-      title: Imported content
-      path: imported-content
-      children:
-        - type: space
-          key: space-3
-          title: Imported content
-          path: imported-content
-          default: true
           draft: true
           content:
-            directory: ./imported-content
+            directory: ./decentralisation_and_consensus_mechanisms/imported-content
