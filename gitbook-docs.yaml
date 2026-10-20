@@ -30,3 +30,16 @@ site:
           draft: true
           content:
             directory: ./decentralisation_and_consensus_mechanisms/imported-content
+    - type: section
+      key: section-3
+      title: Decentralisation and Consensus Mechanisms
+      path: decentralisation-and-consensus-mechanisms
+      children:
+        - type: space
+          key: space-3
+          title: Decentralisation and Consensus Mechanisms
+          path: decentralisation-and-consensus-mechanisms
+          default: true
+          draft: true
+          content:
+            directory: ./decentralisation_and_consensus_mechanisms/imported-content
