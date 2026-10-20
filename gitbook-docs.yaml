@@ -16,17 +16,3 @@ site:
           default: true
           content:
             directory: ./history-and-evolution-of-blockchain/imported-content
-    - type: section
-      key: section-2
-      title: Decentralisation and Consensus Mechanisms
-      path: decentralisation_and_consensus_mechanisms
-      description: ""
-      children:
-        - type: space
-          key: space-2
-          title: Decentralisation and Consensus Mechanisms
-          path: imported-content
-          default: true
-          draft: true
-          content:
-            directory: ./decentralisation_and_consensus_mechanisms/imported-content
