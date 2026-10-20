@@ -1,7 +1,5 @@
 # Comparative Analysis of Bitcoin and Ethereum
 
-> **Images rule:** Images go in the `images/` folder and are embedded here with Markdown, for example `![Diagram](images/diagram.png)`. Use PNG or JPG. External links (Google Drive, Canva, slides) are extras only: they are not marked unless the same content is also in this README.
-
 ## Bitcoin
 
 Bitcoin is the pioneer of blockchain technology and as such it is the most well-known cryptocurrency. Its design enables it to function as a decentralized digital currency, allowing for peer-to-peer transactions without the need for a central authority.
