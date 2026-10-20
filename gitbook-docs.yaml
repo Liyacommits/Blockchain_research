@@ -1,0 +1,32 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Blockchain
+  structure:
+    - type: section
+      key: section-1
+      title: History of Blockchain
+      path: history-and-evolution-of-blockchain
+      description: ""
+      default: true
+      children:
+        - type: space
+          key: space-1
+          title: History of Blockchain
+          path: imported-content
+          default: true
+          content:
+            directory: ./history-and-evolution-of-blockchain/imported-content
+    - type: section
+      key: section-2
+      title: Decentralisation and Consensus Mechanisms
+      path: decentralisation_and_consensus_mechanisms
+      description: ""
+      children:
+        - type: space
+          key: space-2
+          title: Decentralisation and Consensus Mechanisms
+          path: imported-content
+          default: true
+          draft: true
+          content:
+            directory: ./decentralisation_and_consensus_mechanisms/imported-content
